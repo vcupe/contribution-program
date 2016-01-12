@@ -6,15 +6,15 @@ We are running a contribution program to complete the projected functionality as
 
 ## Casual Contributions
 
-Reporting or fixing bugs sporadically are considered casual contribution. We have the intention to develp an specific program for this, but as Fermat is not released yet this has not been set up yet.
+Reporting or fixing bugs sporadically are considered casual contribution. We have the intention to develp an specific program for this, but as Fermat is not released yet this has still not been set up.
 
 ## Regular Contributions
 
-There are serveral regular contributors to the project. Regular contributions are made by individuals working part-time of full-time for the project. Starting 2016 Fermat had 50+ full-time contributors, most of them developers but also, graphic designers, artists, academics, copywriters, etc.
+There are serveral regular contributors to the project. Regular contributions are made by individuals working part-time or full-time for the project. Starting 2016 Fermat had 50+ full-time contributors, most of them developers but also, graphic designers, artists, academics, copywriters, etc.
 
 ### Developers
 
-Developers are organized in teams and each one is classified according to their time working on the project,e engagement, area of the system they are working at, if they are leading or not a team, etc. Based on those cathegories the will receive a monthly amount in Fermat tokens.
+Developers are organized in teams and each one is classified according to their time working on the project, engagement, area of the system they are working at, if they are leading a team or not, etc. Based on those cathegories they receive a monthly amount of Fermat tokens.
 
 All the details regarding this can be read at the [README DEV TEAMS](https://github.com/bitDubai/fermat/blob/master/README-DEV-TEAMS.md)
 
