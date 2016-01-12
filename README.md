@@ -24,6 +24,6 @@ Designers are also organized in teams and have their own cathegorization scheme.
 
 All the details regarding this can be read at the [README DESIGN TEAMS](https://github.com/bitDubai/fermat-graphic-design/blob/master/README-DESIGN-TEAMS.md)
 
-Note: You need read access to that repo in order to read the previous link.
+**Note:** You need read access to that repo in order to read the previous link.
 
 
