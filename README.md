@@ -5,9 +5,10 @@
 We are running a contribution program to complete the projected functionality as soon as possible. Currently contributions are paid in Fermat tokens. This is one of the ways we use to distribute ownership of the project with whoever adds value to it. 
 
 ## License Agreement (read this first)
-Anyone who adds value to the Project in the form of a Contributor according to this Contribution Program, needs to sign up a Contribution License Agreement as the first step to become part of the project. To do that, you only need to do the following: +
-. In this repo you will find the Contributor License Agreement template file that you need to sign up for the competition.[here](https://github.com/bitDubai/cotribution-program/blob/master/Contributor-License-Agreement.md)
-. Copy all of it's content to the clipboard, and go to the folder "license-agreements", create a new file starting with your name and the name of the template file, paste the content of the clipboard there and save it.
+Anyone who adds value to the Project in the form of a Contributor according to this Contribution Program, needs to sign up a Contribution License Agreement as the first step to become part of the project. To do that, you only need to do the following:
+ 
+1. In this repo you will find the Contributor License Agreement template file that you need to sign up for the competition ([here](https://github.com/bitDubai/contribution-program/blob/master/Contributor-License-Agreement.md))
+2. Copy all of it's content to the clipboard, and go to the folder "license-agreements", create a new file starting with your name and the name of the template file, paste the content of the clipboard there and save it.
 
 <br>
 ##### Example: 
