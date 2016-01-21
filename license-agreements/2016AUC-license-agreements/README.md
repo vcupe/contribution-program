@@ -3,12 +3,12 @@
 ## License Agreement 
 Anyone who adds value to the Project in any form needs to sign up a Contribution License Agreement as the first step to become part of the project. To do that, you only need to do the following:
  
-1. In this repo you will find the Contributor License Agreement template file that you need to sign up ([here](https://github.com/bitDubai/contribution-program/blob/master/license-agreements/Contributor-License-Agreement.md)
-
-2. Copy all of its content to the clipboard 
+1. Open the Contributor License Agreement template file that you need to sign up.
+([here](https://github.com/bitDubai/contribution-program/blob/master/license-agreements/Contributor-License-Agreement.md))
+2. Copy all of its content to the clipboard. 
 3. Go to the folder [2016AUC-license-agreements](https://github.com/gustl-arg/contribution-program/tree/master/license-agreements/2016AUC-license-agreements)
-4. Create a new file starting with your "GitHub alias"-"(name)"-and the name of the template file.
-5. Paste the content of the clipboard in it and save it.
+4. Use the [New File] link, top right, to create a file , and name it starting with your "GitHub alias"-"(your_name_is_optional)"-and the name of the template file (Contributor-License-Agreement.md)
+5. Paste the content of the clipboard into the file and save it.
 6. You are done!
 <br>
 ##### Example: 
