@@ -7,22 +7,27 @@ We are running a contribution program to complete the projected functionality as
 ## License Agreement (read this first)
 Anyone who adds value to the Project in the form of a Contributor according to this Contribution Program, needs to sign up a Contribution License Agreement as the first step to become part of the project. To do that, you only need to do the following:
  
-1. In this repo you will find the Contributor License Agreement template file that you need to sign up for the competition ([here](https://github.com/bitDubai/contribution-program/blob/master/Contributor-License-Agreement.md))
-2. Copy all of it's content to the clipboard, and go to the folder "license-agreements", create a new file starting with your name and the name of the template file, paste the content of the clipboard there and save it.
 
+1. In this repo you will find the Contributor License Agreement template file that you need to sign up ([here](https://github.com/bitDubai/contribution-program/blob/master/license-agreements/Contributor-License-Agreement.md))
+
+2. Copy all of its content to the clipboard 
+3. Go to the folder [Contribution-program-license-agreements](https://github.com/bitDubai/contribution-program/tree/master/license-agreements/Contribution-program-license agreements)
+4. Create a new file starting with your "GitHub alias"-"(name)"-and the name of the template file.
+5. Paste the content of the clipboard in it and save it.
+6. You are done!
 <br>
-##### Example: 
+
+#### Example: 
 
 ```shell
-Juan-Perez-Contributor-License-Agreement.md
+juanpe-(Juan-Perez)-Contributor-License-Agreement.md
 ```
 
 <br>
-##### Be Aware! : 
+#### Be Aware! : 
 
 | Note:        | By adding this file to this repo you are signing it with your github account and agreeing on the terms and conditions mentioned there.            | 
 | :-------------: |:-------------:| -----:|
-
 <br>
 ##### After Signing: 
 
