@@ -7,7 +7,7 @@ We are running a contribution program to complete the projected functionality as
 ## Sign-up - License Agreement - (READ FIRST)
 Anyone who adds value to the Project in any form needs to sign up a Contribution License Agreement as the first step to become part of the project. To do that, please follow the steps described [here](https://github.com/bitDubai/contribution-program/tree/master/license-agreements/README.md) 
 
-Now, after signing up,  you can follow the procedure below.
+Then, after signing up,  you can follow the procedure below.
 
 ## Casual Contributions
 
