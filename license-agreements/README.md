@@ -12,9 +12,11 @@ In order to sign up, please follow these steps:
 *	[Regular-contributors-license-agreements](https://github.com/bitDubai/contribution-program/tree/master/license-agreements/Regular-contributors-license agreements): for Team members of the regular Fermat Teams.
 
 4. Once in the corresponding folder, clic on the {New File} button.
+
 (NOTE: a this warning message should appear:
 	"You’re creating a file in a project you don’t have write access to. Submitting a change will create the file in a new branch in your fork johndoe/contribution-program, so you can send a pull request."
 5. Fill the {file name} field, with a name like this: jhondoe-(name)-Contributor-License-Agreement.md
+
 ( NOTE: jhondoe= your github alias ; (name)= it is optional )
 
 6. Paste the content of the clipboard in the body of the file.
@@ -23,6 +25,7 @@ In order to sign up, please follow these steps:
 9. Again click at {create pull request}
 10. You are done!
 <br>
+
 #### Example: 
 
 ```shell
