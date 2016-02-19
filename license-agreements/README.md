@@ -8,7 +8,7 @@ In order to sign up, please follow these steps:
 <br>	[2016AUC-Competition-license-agreements](https://github.com/bitDubai/contribution-program/tree/master/license-agreements/2016AUC-license-agreements): for participants in "Adopt a component and fly to Dubai" competition.
 <br>	[Bounty-program-license-agreements](https://github.com/bitDubai/contribution-program/tree/master/license-agreements/Bounty-program-license-agreements): for teams joining the Bounty Program.
 <br>	[Contribution-program-license-agreements](https://github.com/bitDubai/contribution-program/tree/master/license-agreements/Contribution-program-license agreements): for people joining the Contribution Program.
-<br>	[Regular-contributors-license-agreements](https://github.com/bitDubai/contribution-program/tree/master/license-agreements/Regular-contributors-license agreements): for Team members of the regular Fermat Teams.    
+<br>	[Regular-contributors-license-agreements](https://github.com/Fermat-ORG/contribution-program/tree/master/license-agreements/Regular-contributors-license-agreements): for Team members of the regular Fermat Teams.    
 4. Once in the corresponding folder, clic on the {New File} button.
 <br>
 (NOTE: a this warning message should appear:
