@@ -1,9 +1,10 @@
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 # License Agreement (sign up)
 
 In order to sign up, please follow these steps:
 
 1. In this repo you will find the "Contributor-License-Agreement.md" which is a template file for your signing up. 
-2. Open the ([template file](https://github.com/bitDubai/contribution-program/blob/master/license-agreements/Contributor-License-Agreement.md)), select the entire text, and copy it to the clipboard. (right-clic, copy).
+2. Open the ([template file](https://raw.githubusercontent.com/Fermat-ORG/contribution-program/master/license-agreements/Contributor-License-Agreement.md)), select the entire text, and copy it to the clipboard. (right-clic, copy).
 3. Use the {Back} button of your browser to come back here, and then go to the folder corresponding to the program you are signing up:
 <br>	[2016AUC-Competition-license-agreements](https://github.com/bitDubai/contribution-program/tree/master/license-agreements/2016AUC-license-agreements): for participants in "Adopt a component and fly to Dubai" competition.
 <br>	[Bounty-program-license-agreements](https://github.com/bitDubai/contribution-program/tree/master/license-agreements/Bounty-program-license-agreements): for teams joining the Bounty Program.
