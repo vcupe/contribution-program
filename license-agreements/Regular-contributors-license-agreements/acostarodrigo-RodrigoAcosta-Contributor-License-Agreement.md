@@ -2,6 +2,7 @@
 
 # Fermat Individual Contributor License Agreement
 In order to clarify the intellectual property license granted with Contributions from any person or entity, the Fermat Project (the "Project") must have a Contributor License Grant ("Grant") on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of the Project and the Fermat Project Leads (the "Project Leads"); it does not change your rights to use your own Contributions for any other purpose.
+
 <br><br>
 You accept and agree to the following terms and conditions for Your present and future Contributions submitted to the Project. Except for the license granted herein to the Project Leads and recipients of software distributed by the Project Leads, You reserve all right, title, and interest in and to Your Contributions.
 <br><br>

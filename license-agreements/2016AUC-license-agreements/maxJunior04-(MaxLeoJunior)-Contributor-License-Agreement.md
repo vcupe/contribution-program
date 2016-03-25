@@ -34,4 +34,4 @@ Should You wish to submit work that is not Your original creation, You may submi
 <br>
 ### 8.	Notify.
 
-You agree to notify the Project Leads of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
+You agree to notify the Project Leads of any facts or circumstances of which you become aware that would make these representations inaccurate in any resp
