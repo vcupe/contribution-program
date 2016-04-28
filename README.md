@@ -15,7 +15,7 @@ Reporting or fixing bugs sporadically is considered *casual contribution*. We ha
 
 ## Regular Contributions
 
-There are serveral *regular contributors* to the project. Regular contributions are made by individuals working part-time or full-time for the project. Starting 2016 Fermat had 50+ full-time contributors, most of them developers but also, graphic designers, artists, academics, copywriters, etc.
+There are serveral *regular contributors* to the project. Regular contributions are made by individuals working in teams part-time or full-time for the project. Most of them developers but also, graphic designers, artists, academics, copywriters, etc.
 
 ### Developers
 
